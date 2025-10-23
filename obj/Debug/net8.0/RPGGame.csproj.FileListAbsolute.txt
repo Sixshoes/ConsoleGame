@@ -1,0 +1,14 @@
+/Users/chenyiting/Documents/RPGGame/bin/Debug/net8.0/RPGGame
+/Users/chenyiting/Documents/RPGGame/bin/Debug/net8.0/RPGGame.deps.json
+/Users/chenyiting/Documents/RPGGame/bin/Debug/net8.0/RPGGame.runtimeconfig.json
+/Users/chenyiting/Documents/RPGGame/bin/Debug/net8.0/RPGGame.dll
+/Users/chenyiting/Documents/RPGGame/bin/Debug/net8.0/RPGGame.pdb
+/Users/chenyiting/Documents/RPGGame/obj/Debug/net8.0/RPGGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenyiting/Documents/RPGGame/obj/Debug/net8.0/RPGGame.AssemblyInfoInputs.cache
+/Users/chenyiting/Documents/RPGGame/obj/Debug/net8.0/RPGGame.AssemblyInfo.cs
+/Users/chenyiting/Documents/RPGGame/obj/Debug/net8.0/RPGGame.csproj.CoreCompileInputs.cache
+/Users/chenyiting/Documents/RPGGame/obj/Debug/net8.0/RPGGame.dll
+/Users/chenyiting/Documents/RPGGame/obj/Debug/net8.0/refint/RPGGame.dll
+/Users/chenyiting/Documents/RPGGame/obj/Debug/net8.0/RPGGame.pdb
+/Users/chenyiting/Documents/RPGGame/obj/Debug/net8.0/RPGGame.genruntimeconfig.cache
+/Users/chenyiting/Documents/RPGGame/obj/Debug/net8.0/ref/RPGGame.dll
