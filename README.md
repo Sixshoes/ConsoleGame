@@ -19,4 +19,4 @@ Created as a side project to practice object-oriented programming, method modula
    ```bash
    git clone https://github.com/Sixshoes/ConsoleGame.git
    cd ConsoleGame
-2. dotnet run
+2. dotnet run in Terminal
