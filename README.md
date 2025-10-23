@@ -6,7 +6,7 @@ Created as a side project to practice object-oriented programming, method modula
 ---
 
 ## 🧩 Features
-- Character creation (name, magic power, title)
+- Character creation (name)
 - Skill learning and cooldown system
 - Battle system with enemies
 - Exploration system with random events
